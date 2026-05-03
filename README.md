@@ -42,15 +42,15 @@ Main Features
 | `basys3.xdc`        | Pin constraints for Basys3                          |
 
 Hardware Used
-==>Digilent Basys3 FPGA Board
-==>USB cable for programming and UART communication
-==>Host computer running a serial terminal or Java application
+Digilent Basys3 FPGA Board ,  
+USB cable for programming and UART communication , 
+Host computer running a serial terminal or Java application
 
-UART Settings
-Baud Rate : 115200
-Data Bits : 8
-Parity    : None
-Stop Bits : 1
+UART Settings ==>
+Baud Rate : 115200 ,
+Data Bits : 8 ,
+Parity    : None ,
+Stop Bits : 1 ,
 Message   : RESPONSE\r\n
 
 Testing:
