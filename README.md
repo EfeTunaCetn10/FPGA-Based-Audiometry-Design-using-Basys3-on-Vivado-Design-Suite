@@ -41,12 +41,12 @@ Main Features
 | `uart_tx.v`         | UART transmitter module                             |
 | `basys3.xdc`        | Pin constraints for Basys3                          |
 
-Hardware Used:
+Hardware Used
 ==>Digilent Basys3 FPGA Board
 ==>USB cable for programming and UART communication
 ==>Host computer running a serial terminal or Java application
 
-UART Settings:
+UART Settings
 Baud Rate : 115200
 Data Bits : 8
 Parity    : None
