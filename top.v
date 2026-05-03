@@ -48,3 +48,7 @@ uart_tx #(
     .tx_busy(tx_busy),
     .tx_done(tx_done)
 );
+assign led0 = clean_btn;
+assign led1 = sending;
+
+endmodule
